@@ -52,7 +52,7 @@ Evaluate Answers ─────► /quiz/evaluate
 | Frontend    | React + CSS      |
 | Backend     | FastAPI                          |
 | Embedding   | SentenceTransformers / HF Models |
-| LLM         | Local model / OpenAI compatible  |
+| LLM         | Local LLM with Ollama            |
 | Storage     | Browser LocalStorage             |
 | PDF Parsing | PyMuPDF / pdfminer               |
 
