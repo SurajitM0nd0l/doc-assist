@@ -1,0 +1,7 @@
+# backend/config.py
+
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 100
+TOP_K_RETRIEVAL = 3
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+OLLAMA_MODEL = "mistral"
