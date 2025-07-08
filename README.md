@@ -10,24 +10,24 @@ SmartDoc Assistant is a GenAI-powered document comprehension tool that helps use
 
 ## ✨ Features
 
-- 📄 Upload Documents
-Upload .pdf or .txt files for intelligent analysis.
-- 🧠 AI-Powered Summarization
-Generate concise summaries of uploaded documents using LLMs.
-- ❓ Ask Contextual Questions
-Ask questions based on document content.
-Remembers context from previously asked questions.
-Option to reset context anytime.
-Stores and displays previous questions in the UI.
-- 🧩 Generate Logic-Based Quizzes
-Automatically generate quiz questions that require reasoning and inference.
-- ✅ Evaluate Quiz Answers
-Get feedback with grades, justifications, and concise insights based on your answers.
-- 💾 Local Upload History
-Persists previously uploaded files via localStorage.
-View all uploaded documents in the sidebar.
-Delete individual files by clicking ❌.
-Clear all files with a single click. 
+# 📄 Upload Documents
+- Upload .pdf or .txt files for intelligent analysis.
+# 🧠 AI-Powered Summarization
+- Generate concise summaries of uploaded documents using LLMs.
+# ❓ Ask Contextual Questions
+- Ask questions based on document content.
+- Remembers context from previously asked questions.
+- Option to reset context anytime.
+- Stores and displays previous questions in the UI.
+# 🧩 Generate Logic-Based Quizzes
+- Automatically generate quiz questions that require reasoning and inference.
+# ✅ Evaluate Quiz Answers
+- Get feedback with grades, justifications, and concise insights based on your answers.
+# 💾 Local Upload History
+- Persists previously uploaded files via localStorage.
+- View all uploaded documents in the sidebar.
+- Delete individual files by clicking ❌.
+-Clear all files with a single click. 
 
 ---
 
