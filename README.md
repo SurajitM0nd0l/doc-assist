@@ -49,7 +49,7 @@ Evaluate Answers ─────► /quiz/evaluate
 
 | Layer       | Tech                             |
 |-------------|----------------------------------|
-| Frontend    | React + Tailwind (optional)      |
+| Frontend    | React + CSS      |
 | Backend     | FastAPI                          |
 | Embedding   | SentenceTransformers / HF Models |
 | LLM         | Local model / OpenAI compatible  |
@@ -91,14 +91,14 @@ Start React app
 npm run dev
 Runs at http://localhost:5173
 
-🧪 Example Workflow
+## 🧪 Example Workflow
 
 Upload a research paper (PDF/TXT)
 View the AI-generated summary
 Ask contextual questions (e.g., "What is the core contribution?")
 Generate a quiz → Submit answers → Receive intelligent feedback
 
-🧰 Local LLM with Ollama (Optional)
+## 🧰 Local LLM with Ollama (Optional)
 
 1. Install Ollama
 Go to ollama.com/download and install for macOS, Windows, or Linux.
