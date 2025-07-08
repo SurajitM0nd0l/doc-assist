@@ -67,29 +67,29 @@ cd SmartDoc-Assistant
 2️⃣ Backend Setup(/backend)
 cd backend
 
-# Create virtual environment
+Create virtual environment
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
-# Start FastAPI server
+Start FastAPI server
 uvicorn main:app --reload
-# Runs at http://localhost:8000
+Runs at http://localhost:8000
 
 3️⃣ Frontend Setup (/frontend)
 cd ../frontend
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Create .env file
+Create .env file
 echo "VITE_API_BASE_URL=http://localhost:8000" > .env
 
-# Start React app
+Start React app
 npm run dev
-# Runs at http://localhost:5173
+Runs at http://localhost:5173
 
 🧪 Example Workflow
 
