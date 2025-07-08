@@ -91,22 +91,23 @@ Start React app
 npm run dev
 Runs at http://localhost:5173
 
+
+## 🧰 Local LLM with Ollama
+
+1. Install Ollama: 
+Go to ollama.com/download and install for macOS, Windows, or Linux.
+Verify installation:
+ollama --version
+
+3. Pull a Model: 
+ollama pull mistral
+
+5. Run the Model: 
+ollama run mistral
+
 ## 🧪 Example Workflow
 
 Upload a research paper (PDF/TXT)
 View the AI-generated summary
 Ask contextual questions (e.g., "What is the core contribution?")
 Generate a quiz → Submit answers → Receive intelligent feedback
-
-## 🧰 Local LLM with Ollama (Optional)
-
-1. Install Ollama
-Go to ollama.com/download and install for macOS, Windows, or Linux.
-Verify installation:
-ollama --version
-
-3. Pull a Model
-ollama pull mistral
-
-5. Run the Model
-ollama run mistral
